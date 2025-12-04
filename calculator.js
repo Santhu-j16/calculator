@@ -12,3 +12,4 @@ else if (op === "/") result = a / b;
 else result = "Invalid operator";
 
 console.log("Result:", result);
+//print
