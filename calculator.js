@@ -1,5 +1,5 @@
 // Simple calculator
-let a = 10;   // first number
+let a = 10;   // first number 
 let b = 5;    // second number
 let op = "+"; // operator: +, -, *, /
 
