@@ -3,7 +3,7 @@ let a = 10;   // first number
 let b = 5;    // second number
 let op = "+"; // operator: +, -, *, /
 
-let result;
+let result; 
 
 if (op === "+") result = a + b;
 else if (op === "-") result = a - b;
